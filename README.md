@@ -1,1 +1,1 @@
-A standard calculator with GUI.
+*A standard calculator with GUI.
